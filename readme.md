@@ -1,11 +1,7 @@
-# Challenge Meetups
+# Meetup API
 
-Challenge Meetups is an API that allows organizations to create meetups.
+ Is an API that allows organizations to create meetups.
 
-## Clone repository
-```bash
-https://git-rba.hackerrank.com/git/cb0f3d18-9477-4e6e-a8af-b1904479d456
-```
 
 ## Installation
 
